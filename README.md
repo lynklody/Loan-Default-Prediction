@@ -1,3 +1,3 @@
 # Loan-Default-Prediction
 
-This is part of group project of a group of 5 where the portion I implemented was to make predictions on the probabilities of loan default based on past users personal and financial data.
+This is part of group project in a group of 5. I implemented the Naive Bayes model from scratch to make predictions on the probabilities of loan default based on past users personal and financial data. Although the accurarcy for Naive Bayes model is not as good as other models suggested for this type of problem, for the sake of practice, the project is developed with the help of some Python packages like scikit learn and numpy. The use of package pandas and other advanced packages was intentionally refrained.
